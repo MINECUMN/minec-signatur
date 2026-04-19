@@ -48,12 +48,14 @@ Die Signatur ist vollständig `<table>`-basiert, da E-Mail-Clients wie Outlook k
 
 ### Typografie
 
+Alle Textelemente verwenden einheitlich **14px** — den Gmail-Standard — für ein fließendes, konsistentes Erscheinungsbild. Der Name ist mit 16px minimal hervorgehoben.
+
 | Element | Größe | Gewicht | Farbe |
 |---|---|---|---|
-| Grußformel | 13px | Regular | `#22262c` |
-| Name | 15px | 700 (Bold) | `#193e47` |
-| Adresse | 12px | Regular | `#707070` |
-| Links | 12px | Regular | `#155d6b` |
+| Grußformel | 14px | Regular | `#22262c` |
+| Name | 16px | 700 (Bold) | `#193e47` |
+| Adresse | 14px | Regular | `#707070` |
+| Links (E-Mail/Web) | 14px | Regular | `#155d6b` |
 
 ### Farbpalette
 
